@@ -16,7 +16,7 @@ public class Game {
 
         Scanner in = new Scanner(System.in);
 
-        String mapFilepath = "";
+        String mapFilepath = "maps\\overworld.dat";
         Player player = new Player("", "", "");
         Map map = new Map(mapFilepath);
         boolean isRunning = true;

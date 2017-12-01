@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class Enemy extends Entity {
-    private String enemyDir = "";
+    private String enemyDir = "enemies\\";
     private String enemyFileType = ".dat";
     private HashMap<Integer, String> enemyMap = new HashMap<Integer, String>();
     private String desc;
