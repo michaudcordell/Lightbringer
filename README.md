@@ -1,3 +1,3 @@
 # Lightbringer
 
-CSE 110 ASU Barrett Honors Project
+Arizona State University CSE 110 Barrett Honors Project
